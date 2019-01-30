@@ -3,7 +3,12 @@
 RMIQuestionPro
 
 BY : amr jamal
+
 JavaFX Remote Method Invocation
+
+Languages : JavaFX(RMI)
+
+Features : simple GUI using rmi 
 
 Bank of Questions:
 
